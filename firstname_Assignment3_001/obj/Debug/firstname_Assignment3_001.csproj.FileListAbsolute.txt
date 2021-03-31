@@ -1,0 +1,15 @@
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\bin\Debug\firstname_Assignment3_001.exe.config
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\bin\Debug\firstname_Assignment3_001.exe
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\bin\Debug\firstname_Assignment3_001.pdb
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\firstname_Assignment3_001.csprojAssemblyReference.cache
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\MainWindow.g.cs
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\App.g.cs
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\firstname_Assignment3_001_MarkupCompile.cache
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\firstname_Assignment3_001_MarkupCompile.lref
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\MainWindow.baml
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\firstname_Assignment3_001.g.resources
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\firstname_Assignment3_001.Properties.Resources.resources
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\firstname_Assignment3_001.csproj.GenerateResource.cache
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\firstname_Assignment3_001.csproj.CoreCompileInputs.cache
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\firstname_Assignment3_001.exe
+C:\Users\Vikas\Desktop\Merci\firstname_Assignment3_001\obj\Debug\firstname_Assignment3_001.pdb
